@@ -7,3 +7,4 @@
 #
 layout: home
 ---
+![](assets/metal.jpg)
